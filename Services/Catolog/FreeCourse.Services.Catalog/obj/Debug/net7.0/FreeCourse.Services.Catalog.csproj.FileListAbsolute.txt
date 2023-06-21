@@ -47,3 +47,4 @@ C:\Users\Ulas\source\repos\Microservices\Services\Catolog\FreeCourse.Services.Ca
 C:\Users\Ulas\source\repos\Microservices\Services\Catolog\FreeCourse.Services.Catalog\obj\Debug\net7.0\FreeCourse.Services.Catalog.pdb
 C:\Users\Ulas\source\repos\Microservices\Services\Catolog\FreeCourse.Services.Catalog\obj\Debug\net7.0\FreeCourse.Services.Catalog.genruntimeconfig.cache
 C:\Users\Ulas\source\repos\Microservices\Services\Catolog\FreeCourse.Services.Catalog\obj\Debug\net7.0\ref\FreeCourse.Services.Catalog.dll
+C:\Users\Ulas\source\repos\Microservices\Services\Catolog\FreeCourse.Services.Catalog\obj\Debug\net7.0\FreeCourse.Services.Catalog.MvcApplicationPartsAssemblyInfo.cs
